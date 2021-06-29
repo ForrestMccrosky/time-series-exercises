@@ -1,0 +1,1 @@
+This repo will be used to complete my Time Series Exercises for my Florence Cohert Data Science Curriculumn 
